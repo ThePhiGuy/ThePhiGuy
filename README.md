@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning
     - Python
     - C++
-    - FORTRAN 90
+    - Radio Astronomy
     - Cisco CCNP
 - ⚡ Fun fact:
     - I do Professional Dog Sports Photography!
