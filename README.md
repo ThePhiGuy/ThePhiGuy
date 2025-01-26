@@ -10,10 +10,9 @@
     - Computer Networking (I have a CCNA, working on CCNP)
 - 🌱 I’m currently learning
     - Python
-    - C#
+    - C++
+    - FORTRAN 90
     - Cisco CCNP
-- 📫 How to reach me
-    - Email me, Ryandeaton06@gmail.com
 - ⚡ Fun fact:
     - I do Professional Dog Sports Photography!
     - I REALLY like Xeon Phi
