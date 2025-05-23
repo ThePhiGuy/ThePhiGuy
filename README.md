@@ -8,7 +8,7 @@
     - Photography
     - Outdoor Recreation
     - Computer Networking (I have a CCNA, working on CCNP)
-    - Ham Radio
+    - Ham Radio KJ5KIQ (soon to be N5RAD!)
 - 🌱 I’m currently learning
     - Radio Astronomy
     - Cisco CCNP
