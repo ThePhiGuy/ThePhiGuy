@@ -8,15 +8,16 @@
     - Photography
     - Outdoor Recreation
     - Computer Networking (I have a CCNA, working on CCNP)
+    - Ham Radio
 - 🌱 I’m currently learning
-    - Python
-    - C++
     - Radio Astronomy
     - Cisco CCNP
+    - Contact Binary Stars
 - ⚡ Fun fact:
     - I do Professional Dog Sports Photography!
     - I REALLY like Xeon Phi
     - I work as an Observatory Assistant at Calvin University
+    - I work as a Undergraduate Summer Physics Researcher at Calvin University
 
 
 <!---
