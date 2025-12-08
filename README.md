@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ThePhiGuy, I go by Ryan, or RJ
     - I am currently Majoring in Computer Science and Computer Engineering at Calvin University in Grand Rapids Michigan
+    - I am a Reformed Christian.
 - 👀 I’m interested in
     - Xeon Phi Coprocessors
     - Astronomy/Astrophotography
