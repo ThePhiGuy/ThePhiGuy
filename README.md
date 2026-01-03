@@ -57,9 +57,12 @@ I have a few microprojects on my profile to reinforce and develop new skills and
 - Algorithim Design
 
 ## 📚 Coursework Highlights
-- Computer Science core coursework  
-- Engineering and physics-aligned technical classes  
-- Applied lab and project-based learning  
+- Intro to Circuit Design & Electronics
+- Multivariable Calculus
+- Differential Equations with Linear Algebra
+- Astrophysical Black Holes
+- High Performance Computing
+- Advanced Data Structures & Algorithims
 
 ## 🧪 Research & Exploration
 - **Teaching Assistant** at Calvin University  
@@ -74,7 +77,7 @@ I have a few microprojects on my profile to reinforce and develop new skills and
 - Extreme Overclocking  
 - Outdoor Rec (Hiking/Backpacking) 
 - Photography
-- Bass Clarinet/ContraBass Clarinet
+- Bass Clarinet/Contrabass Clarinet
 - Church Organ
 
 ## 🤝 Connect With Me
