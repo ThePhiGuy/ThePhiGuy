@@ -20,6 +20,7 @@ I enjoy building focused technical projects to explore systems, performance, and
 - C / C++
 - Python
 - OpenMP / MPI
+- SIMD Intrinsics
 - Linux  / Windows
 - Networking tools & Cisco equipment  
 - Scientific and technical computing tools
@@ -46,8 +47,6 @@ I have a few microprojects on my profile to reinforce and develop new skills and
 
 ## 🚧 What I’m Currently Working On
 - Coursework in Computer Science and Electrical Engineering  
-- A series of technical microprojects  
-- Hands-on learning through research and lab work
 
 ## 🌱 Learning & Growth
 - Radio Astronomy
@@ -78,7 +77,7 @@ I have a few microprojects on my profile to reinforce and develop new skills and
 - Outdoor Rec (Hiking/Backpacking) 
 - Photography
 - Bass Clarinet/Contrabass Clarinet
-- Church Organ
+- Church Organist
 
 ## 🤝 Connect With Me
 - LinkedIn  
